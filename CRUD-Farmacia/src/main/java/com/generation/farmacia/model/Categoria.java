@@ -46,5 +46,13 @@ public class Categoria {
 	public void setIndicacao(String indicacao) {
 		this.indicacao = indicacao;
 	}
+
+	public List<Produto> getProduto() {
+		return produto;
+	}
+
+	public void setProduto(List<Produto> produto) {
+		this.produto = produto;
+	}
 	
 }
