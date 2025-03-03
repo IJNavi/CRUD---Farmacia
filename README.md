@@ -125,8 +125,8 @@ Classifica os produtos, como "Medicamentos", "Beleza" ou "Suplementos".
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/IvanBarbosa/CRUD-Farmacia.git
-   cd CRUD-Farmacia
+   git clone https://github.com/IJNavi/CRUD---Farmacia.git
+   cd CRUD---Farmacia
    ```
 
 2. Configure o banco de dados:
