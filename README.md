@@ -20,7 +20,8 @@ Funcionalidades incluem operações CRUD completas para ambas as entidades e bus
 
 ## 🔗 Relacionamento entre Entidades
 
-```erDiagram
+```mermaid
+erDiagram
     CATEGORIA {
         Long id
         String nome
@@ -35,6 +36,7 @@ Funcionalidades incluem operações CRUD completas para ambas as entidades e bus
     }
     PRODUTO }o--|| CATEGORIA : pertence
 ```
+
 
 ## 📂 Estrutura do Projeto
 
